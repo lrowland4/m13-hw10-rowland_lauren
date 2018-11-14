@@ -4,6 +4,10 @@ var section = document.getElementByTagName('section');
 
 var button = document.getElementByTagName('button');
 
+function slideToggle(){
+	var section.document.getElementByTagName('section');
+	section.classList.toggle('hide');
+};
 
 
 
